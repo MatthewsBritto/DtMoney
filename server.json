@@ -1,20 +1,36 @@
 {
-   "transactions": [
-      {
-         "id": 1,
-         "description":"Desenvolvimento de site",
-         "type": "income",
-         "category": "Venda",
-         "price": 14000,
-         "createdAt":"2023-03-23T14:20:14.076Z"
-      },
-      {
-         "id": 2,
-         "description":"Açai",
-         "type": "outcome",
-         "category": "Compra",
-         "price": 50,
-         "createdAt":"2023-03-23T14:10:14.076Z"
-      }
-   ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-03-23T14:20:14.076Z"
+    },
+    {
+      "id": 2,
+      "description": "Açai",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 50,
+      "createdAt": "2023-03-23T14:10:14.076Z"
+    },
+    {
+      "description": "ignite",
+      "type": "outcome",
+      "category": "educação",
+      "price": 2000,
+      "createdAt": "2023-03-27T20:23:25.323Z",
+      "id": 3
+    },
+    {
+      "description": "salario",
+      "type": "income",
+      "category": "venda",
+      "price": 1000,
+      "createdAt": "2023-03-27T20:41:14.608Z",
+      "id": 4
+    }
+  ]
 }
